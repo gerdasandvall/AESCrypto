@@ -1,0 +1,8 @@
+C:\Users\09GS0816\source\repos\AESCrypto\AESCrypto\bin\Debug\AESCrypto.dll
+C:\Users\09GS0816\source\repos\AESCrypto\AESCrypto\bin\Debug\AESCrypto.pdb
+C:\Users\09GS0816\source\repos\AESCrypto\AESCrypto\obj\Debug\AESCrypto.csproj.AssemblyReference.cache
+C:\Users\09GS0816\source\repos\AESCrypto\AESCrypto\obj\Debug\AESCrypto.UserControl1.resources
+C:\Users\09GS0816\source\repos\AESCrypto\AESCrypto\obj\Debug\AESCrypto.csproj.GenerateResource.cache
+C:\Users\09GS0816\source\repos\AESCrypto\AESCrypto\obj\Debug\AESCrypto.csproj.CoreCompileInputs.cache
+C:\Users\09GS0816\source\repos\AESCrypto\AESCrypto\obj\Debug\AESCrypto.dll
+C:\Users\09GS0816\source\repos\AESCrypto\AESCrypto\obj\Debug\AESCrypto.pdb
